@@ -1,2 +1,2 @@
 # coinmarketcap.com-scraper
-Calls coinmarketcap.com API to fetch cryptocurrency data.
+Calls www.coinmarketcap.com API to fetch cryptocurrency data.
